@@ -33,6 +33,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact Us
 
-Have questions, suggestions, or want to collaborate? Reach out to us at [jyotikpr999@gmail.com](mailto:jdgaming7320@gmail.com).
+Have questions, suggestions, or want to collaborate? Reach out to us at [jdgaming7320@gmail.com](mailto:jdgaming7320@gmail.com).
 
 Let's make a positive impact on healthcare together! 🌟
